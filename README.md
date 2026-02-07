@@ -99,5 +99,5 @@ If you use this dataset in academic research, please cite appropriately:
 Electric Vehicle Fleet Charging Dataset. (2026). 
 https://github.com/ubaidrehman1122/EVs-data-/upload
 License
-Specify appropriate license when publishing (e.g., CC BY 4.0 for open research use)
+CC BY 4.0 for open research use
 
